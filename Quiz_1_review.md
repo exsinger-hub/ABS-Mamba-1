@@ -1,4 +1,4 @@
-# Quiz 1 Review (Rewritten)
+# Quiz 1 Review
 
 ## Question 1
 
